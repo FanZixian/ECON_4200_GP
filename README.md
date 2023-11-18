@@ -8,5 +8,3 @@ As we all know, in the last two years the Federal Reserve has raised interest ra
 ### Data Reference
 - FRED: https://fred.stlouisfed.org/series/GDPC1#0
 - Tickers: GDPC1, GDPPOT, PCEPI, FF
-
-https://www.moneyandbanking.com/custom-fred-tutorials/2014/12/1/plotting-the-taylor-rule-and-the-federal-funds-rate
